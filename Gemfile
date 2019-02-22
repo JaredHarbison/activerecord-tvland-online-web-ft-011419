@@ -4,5 +4,6 @@ gem "rspec"
 gem "sinatra-activerecord"
 gem 'sqlite3', '~>1.3.6'
 gem "rake"
-gem 'activerecord', '4.2', :require => 'active_record'
+gem 'activerecord'
 gem "database_cleaner"
+#, '4.2', :require => 'active_record'
