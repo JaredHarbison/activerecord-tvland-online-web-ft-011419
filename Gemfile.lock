@@ -64,7 +64,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  activerecord (= 4.2)
   database_cleaner
   pry
   rake
